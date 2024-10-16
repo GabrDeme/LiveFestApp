@@ -1,5 +1,5 @@
 # LiveFestApp
----
+
 ## Problem to be Solved
 
 In the midst of the vast array of events happening daily in a bustling city like São Paulo, it is common for many of them to go unnoticed by the general public. People often feel disconnected from the cultural and entertainment opportunities available in their own communities due to a lack of advertising and available time. This results in low participation in local events, wasted resources by organizers, and a loss of valuable opportunities for residents to enjoy enriching experiences.
@@ -15,6 +15,8 @@ With LiveFest, we make it easier than ever to discover and participate in the be
 - Display user-preselected recommendations during account creation.
 - Facilitate event searches by category, location, date, and personal interest.
 - Offer an intuitive and engaging user experience.
+
+---
 
 ### Target Audience
 - Tourists looking for local events.
