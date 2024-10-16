@@ -32,3 +32,18 @@ With LiveFest, we make it easier than ever to discover and participate in the be
 ---
 
 ## Technologies
+
+### Front-end
+- **React Native**: Used to build the mobile application interface.
+- **Expo**: Facilitates the development, testing, and deployment of the mobile app.
+- **Styled Components**: For designing reusable and maintainable UI components.
+- **JSON**: For handling front-end data communication with the API.
+
+### Back-end
+- **C#**: Used to develop the API that provides event data to the front-end.
+
+### Native Resources
+- **Google Maps API**: Used to integrate map functionalities and event location services.
+
+### Artificial Intelligence
+- **AI-based Email Welcome message**: Ensures the user receives a Welcome message after subscription.
