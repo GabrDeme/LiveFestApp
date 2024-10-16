@@ -10,13 +10,13 @@ We present **LiveFest**, your essential companion for exploring the vibrant cult
 
 With LiveFest, we make it easier than ever to discover and participate in the best events in São Paulo, ensuring that you are always at the center of local cultural action. Don’t let events go unnoticed any longer. Be a part of our city's cultural community with LiveFest!
 
+---
+
 ### Objectives
 - Provide updated information about popular shows and events.
 - Display user-preselected recommendations during account creation.
 - Facilitate event searches by category, location, date, and personal interest.
 - Offer an intuitive and engaging user experience.
-
----
 
 ### Target Audience
 - Tourists looking for local events.
