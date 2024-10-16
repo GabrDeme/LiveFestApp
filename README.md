@@ -41,6 +41,7 @@ With LiveFest, we make it easier than ever to discover and participate in the be
 
 ### Back-end
 - **C#**: Used to develop the API that provides event data to the front-end.
+- **ASP.NET**: Framework for developing the API.
 
 ### Native Resources
 - **Google Maps API**: Used to integrate map functionalities and event location services.
